@@ -1,8 +1,10 @@
 -------------27-5-2024
 -project 1 - did this
--project 2 - did this thta
+-project 2 - did this that
 
 
 -------------28-5-2024
 -project 1 - did this
--project 2 - did this thta
+-project 2 - did this that
+
+
