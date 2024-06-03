@@ -1,10 +1,10 @@
--------------27-5-2024
--project 1 - did this
--project 2 - did this that--
+-------------03-06-2024
 
+Tugtow -> meeting with clinet
+Netsofters-todo -> upload on server
+sanal-darshan -> chnages of clinet , upload of chnages on server 
+eschool - erp -> try to setup project , server erorr , php version mismatch , panding from clinet
 
--------------28-5-2024
--project 1 - did this
--project 2 - did this that--
+-------------04-06-2024
 
 
