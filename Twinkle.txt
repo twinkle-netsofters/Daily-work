@@ -6,3 +6,13 @@ Carwash:
 uploaded app on play store
 Unstock:
 Working on changes
+
+
+------------ 04/06/2024 -------------
+
+unstock:
+solved bugs
+Quizys
+working on bugs
+Quizwise:
+need to modify the UI
