@@ -16,3 +16,17 @@ Quizys
 working on bugs
 Quizwise:
 need to modify the UI
+
+
+------------ 05/06/2024 -------------
+
+Unstock : 
+- Worked on bugs 
+- Provided the app with solved bugs
+
+Quizys :
+- Working on bugs
+
+Yoot :
+- Started working on bug 
+  - Profile picture not uploading
